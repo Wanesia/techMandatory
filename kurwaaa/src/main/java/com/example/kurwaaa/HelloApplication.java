@@ -150,5 +150,4 @@ public class HelloApplication extends Application {
         launch();
         System.out.println("Number of threads " + Thread.activeCount());
     }
-
 }
